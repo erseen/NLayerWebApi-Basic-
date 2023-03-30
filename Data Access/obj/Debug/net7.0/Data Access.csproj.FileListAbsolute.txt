@@ -1,0 +1,17 @@
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\bin\Debug\net7.0\Data Access.deps.json
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\bin\Debug\net7.0\Data Access.runtimeconfig.json
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\bin\Debug\net7.0\Data Access.dll
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\bin\Debug\net7.0\Data Access.pdb
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\bin\Debug\net7.0\Entities.dll
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\bin\Debug\net7.0\Entities.pdb
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.csproj.AssemblyReference.cache
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.AssemblyInfoInputs.cache
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.AssemblyInfo.cs
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.csproj.CoreCompileInputs.cache
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.csproj.CopyComplete
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.dll
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\refint\Data Access.dll
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.pdb
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\Data Access.genruntimeconfig.cache
+C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\Data Access\obj\Debug\net7.0\ref\Data Access.dll

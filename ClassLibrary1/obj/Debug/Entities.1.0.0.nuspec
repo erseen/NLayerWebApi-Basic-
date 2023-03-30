@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Entities</id>
+    <version>1.0.0</version>
+    <authors>Entities</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\ersen\Desktop\Katmanlı Web Api Projesi\Entities\ClassLibrary1\bin\Debug\net7.0\Entities.dll" target="lib\net7.0\Entities.dll" />
+  </files>
+</package>
